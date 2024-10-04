@@ -195,7 +195,7 @@
     }
 
     .mensaje-content{
-        background-image: url(/Whatsapp/images/fondo.jpg);
+        background-image: url(images/fondo.jpg);
         background-position: center;
         height: calc(100vh - 120px);
         padding: 20px 80px;
